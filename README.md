@@ -1,2 +1,3 @@
 # Shell
-Schell Scripts for knowledge and understanding
+Shell Scripts for knowledge and understanding
+all is good
